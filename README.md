@@ -1,0 +1,3 @@
+# Firebase Asynchronous Data Access and Null Value Handling Errors
+
+This repository demonstrates common errors encountered when working with asynchronous data fetching in Firebase and how to address them.  The `firebaseBug.js` file shows examples of accessing data before it's loaded and not handling null values, leading to errors.  The solution, provided in `firebaseBugSolution.js`, shows how to properly handle these situations using promises and optional chaining.
